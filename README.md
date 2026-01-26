@@ -14,11 +14,12 @@ Sito web personale sviluppato per mostrare il proprio portfolio e creare una vet
 
 
 ## *🌐 Link del Sito*
-[🔗 Vai all’applicazione](https://matthewchevalier.github.io/PersonalSite/)
+[🔗 Vai al sito](https://matthewchevalier.github.io/PersonalSite/)
 
 
 
 ## *👤 Autore*
 Mattia Cavaliere - [MatthewChevalier](https://github.com/MatthewChevalier)
+
 
 
