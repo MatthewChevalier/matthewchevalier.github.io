@@ -56,6 +56,14 @@ body {
   }
 }
 
+.sottotitolo {
+    font-weight: bold;
+    font-size: clamp(1.8rem, 4vw, 3.2rem);
+    color: $secondary-color;
+    text-align: center;
+    max-width: 90vw;
+}
+
 
 .cards-section {
   margin-bottom: 120px;
